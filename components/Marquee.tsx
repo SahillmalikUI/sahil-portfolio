@@ -3,7 +3,7 @@
 const stack = [
   "Flutter", "Dart", "Figma", "Photoshop", "Next.js", "TypeScript", "Tailwind",
   "Node.js", "Express", "PostgreSQL", "MongoDB", "JWT Auth", "Groq AI",
-  "Crank Storyboard", "Lua", "REST APIs", "Riverpod", "GSAP",
+  "Crank Storyboard", "Lua", "REST APIs", "Riverpod",
 ];
 
 export default function Marquee() {

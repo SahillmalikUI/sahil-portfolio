@@ -64,7 +64,7 @@ export default function Hero() {
             <span>REV · 2026.01</span>
           </div>
           <div className="spec-row"><span className="k">Role</span><span className="v">Full-Stack Software Engineer</span></div>
-          <div className="spec-row"><span className="k">Company</span><span className="v">BluAi · India</span></div>
+          <div className="spec-row"><span className="k">Company</span><span className="v">BluAi · Chandigarh, India</span></div>
           <div className="spec-row"><span className="k">Focus</span><span className="v">Embedded HMI · AI · Real-time</span></div>
           <div className="spec-row"><span className="k">Experience</span><span className="v">1.5+ yrs</span></div>
           <div className="spec-row"><span className="k">Status</span><span className="v v-open">● Open to work</span></div>

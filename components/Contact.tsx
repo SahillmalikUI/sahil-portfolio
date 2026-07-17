@@ -38,7 +38,7 @@ export default function Contact() {
 
       <footer className="site-footer">
         <div className="wrap foot">
-          <span>© 2026 SAHIL MALIK — DEVELOPER · DESIGNER · BUILDER</span>
+          <span>© 2026 SAHIL MALIK — FULL-STACK SOFTWARE ENGINEER</span>
           <span>BUILT WITH NEXT.JS · TYPESCRIPT · TAILWIND · MOTION</span>
         </div>
       </footer>
