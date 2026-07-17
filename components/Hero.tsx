@@ -16,7 +16,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7 }}
           >
-            Full-Stack Software Engineer · Flutter Embedded · UI · AI Integration
+            FULL-STACK SOFTWARE ENGINEER • FLUTTER • EMBEDDED SYSTEMS • AI
           </motion.span>
 
           <motion.h1
