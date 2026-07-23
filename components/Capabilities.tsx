@@ -13,7 +13,7 @@ const caps = [
     num: "B / BACKEND & AI",
     title: "Backend & AI",
     desc: "The APIs, auth, and data behind the interface — plus secure AI integration and live deployment.",
-    items: ["Node.js · Express · REST APIs", "PostgreSQL · MongoDB", "JWT · bcrypt · secure proxy", "Groq AI · Railway deployment"],
+    items: ["Node.js · Express · REST APIs", "PostgreSQL · MongoDB · Firestore", "Firebase Auth · JWT · bcrypt", "Groq AI · Gemini AI · Railway"],
   },
   {
     num: "C / DESIGN & VISUAL",
